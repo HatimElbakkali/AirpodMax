@@ -63,7 +63,7 @@ ul {
   width: 30%;
   margin: 20% auto;
   scale: 1.5;
-  animation-name: Airpods;
+  animation-name: device;
   animation-duration: 6s;
   animation-timing-function: ease-out;
   animation-iteration-count: infinite;
@@ -73,7 +73,7 @@ ul {
   animation-play-state: paused;
 }
 
-@keyframes Airpods {
+@keyframes device {
   0% {
     transform: translateY(0px);
   }
